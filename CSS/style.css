@@ -1,0 +1,102 @@
+<style>
+            html,
+            body {
+                font-family: 'KoHo', sans-serif;
+                font-size: 1em;
+                margin: 0;
+                background-color: lightgray
+             }
+            .header {
+                text-align: center;
+                background-color: #6f9c5d;
+                padding: 10px;
+                border-radius: 4%
+            } 
+            
+            .wrapper{
+                display: inline-flex;
+                width: 100%;
+                border-style: solid;
+                border-color: white;
+                background-color: lightgrey;
+
+            }
+
+            img.profile-img {
+                border-radius: 50%;
+            }
+
+            .menu{
+                background-color: #6f9c5d;
+                padding: 10px;
+                border-radius: 2%
+            }
+
+            a.links {
+                    color: white;
+                    text-decoration: none;
+            }
+
+            li.menu-list {
+                    padding: 10px;
+                    text-align: center;
+            }
+
+            ul.list {
+                    list-style-type: none;
+                    margin: 0;
+            }
+
+            ul {
+                list-style-type: none;
+            }
+
+            .content-info{
+                width: 80%;
+                margin: auto; 
+                text-align: center;
+                padding: 10px;
+                border-style: solid;
+                border-color: white;       
+            }
+
+            h2#Interests {
+                border-bottom-style: solid;
+            }
+
+            h2#skills {
+                border-bottom-style: solid;
+            }
+
+            h2#work\ experience {
+                border-bottom-style: solid;
+            }
+
+            h2#education {
+                border-bottom-style: solid;
+            }
+
+            .footer{    
+                text-align: center;
+                background-color: #6f9c5d;
+                padding: 10px;
+            }
+
+            h3#contact {
+                border-bottom-style: dashed;
+                border-start-end-radius: 50%;
+            }
+
+            h3#links {
+                border-bottom-style: dashed;
+                border-start-end-radius: 50%;
+            }
+
+            a {
+             color: white;
+            }
+
+            h2#about\ me {
+                border-bottom-style: solid;
+            }
+        </style>
